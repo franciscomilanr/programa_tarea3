@@ -16,8 +16,10 @@
  	<li>Operaciones matematicas </li>
   <li>Ciclo for</li>
   <li>Contador </li>
-  
-  <li>
+	<li>Variables entero</li>
+	<li>Variables flotante</li>
+	<li>Calcular promedio</li>
+	<li>Calcular negativo</li>
  </ul>
 <br>
  <li> <b> Objetivo: </b> Crear programas en C que realizen diversos calculos. </li>
