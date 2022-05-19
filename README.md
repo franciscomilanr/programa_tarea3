@@ -2,7 +2,7 @@
 
 
 <li><b>Autor:</b> Franciscomilan</li>
- <li><b>Fecha:</b>20/02/2022 </li>
+ <li><b>Fecha:</b> 20,21,22/02/2022 </li>
  <li><b>Escuela:</b> Universidad uvm</li>
  <li><b>Materia:</b> Programacion estructurada</li>
  <li><b>Profesor:</b> Armando Cruz</li>
@@ -20,6 +20,7 @@
 	<li>Variables flotante</li>
 	<li>Calcular promedio</li>
 	<li>Calcular negativo</li>
+	<li>Uso de while </li>
  </ul>
 <br>
  <li> <b> Objetivo: </b> Crear programas en C que realizen diversos calculos. </li>
