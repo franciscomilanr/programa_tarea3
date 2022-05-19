@@ -21,6 +21,7 @@
 	<li>Calcular promedio</li>
 	<li>Calcular negativo</li>
 	<li>Uso de while </li>
+	<li>Uso de if </li>
  </ul>
 <br>
  <li> <b> Objetivo: </b> Crear programas en C que realizen diversos calculos. </li>
